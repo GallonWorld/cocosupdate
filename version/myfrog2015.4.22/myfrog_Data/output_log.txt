@@ -2,21 +2,20 @@ Initialize engine version: 5.0.1f1 (5a2e8fe35a68)
 GfxDevice: creating device client; threaded=1
 Direct3D:
     Version:  Direct3D 11.0 [level 11.0]
-    Renderer: NVIDIA GeForce GT 630 (ID=0xf00)
+    Renderer: NVIDIA GeForce GTX 550 Ti (ID=0x1244)
     Vendor:   NVIDIA
     VRAM:     977 MB
 Begin MonoManager ReloadAssembly
-Platform assembly: C:\Users\Jeremy\Desktop\myfrog\myfrog_Data\Managed\UnityEngine.dll (this message is harmless)
-Loading C:\Users\Jeremy\Desktop\myfrog\myfrog_Data\Managed\UnityEngine.dll into Unity Child Domain
-Platform assembly: C:\Users\Jeremy\Desktop\myfrog\myfrog_Data\Managed\Assembly-CSharp.dll (this message is harmless)
-Loading C:\Users\Jeremy\Desktop\myfrog\myfrog_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
-Platform assembly: C:\Users\Jeremy\Desktop\myfrog\myfrog_Data\Managed\UnityEngine.UI.dll (this message is harmless)
-Loading C:\Users\Jeremy\Desktop\myfrog\myfrog_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
-- Completed reload, in  0.047 seconds
-desktop: 1680x1050 59Hz; virtual: 3360x1050 at 0,0
+Platform assembly: F:\youxixiangmu\trunk\version\myfrog2015.4.22\myfrog_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading F:\youxixiangmu\trunk\version\myfrog2015.4.22\myfrog_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: F:\youxixiangmu\trunk\version\myfrog2015.4.22\myfrog_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading F:\youxixiangmu\trunk\version\myfrog2015.4.22\myfrog_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: F:\youxixiangmu\trunk\version\myfrog2015.4.22\myfrog_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading F:\youxixiangmu\trunk\version\myfrog2015.4.22\myfrog_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+- Completed reload, in  0.050 seconds
+desktop: 1920x1080 60Hz; virtual: 3840x1080 at -1920,0
 <RI> Initializing input.
-XInput1_3.dll not found. Trying XInput9_1_0.dll instead...
 <RI> Input initialized.
 <RI> Initialized touch support.
-Platform assembly: C:\Users\Jeremy\Desktop\myfrog\myfrog_Data\Managed\System.Core.dll (this message is harmless)
-Platform assembly: C:\Users\Jeremy\Desktop\myfrog\myfrog_Data\Managed\System.dll (this message is harmless)
+Platform assembly: F:\youxixiangmu\trunk\version\myfrog2015.4.22\myfrog_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: F:\youxixiangmu\trunk\version\myfrog2015.4.22\myfrog_Data\Managed\System.dll (this message is harmless)
